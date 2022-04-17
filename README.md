@@ -2,6 +2,10 @@
 
 A [hackathon](https://graphforall.devpost.com/) with a $1m USD prize pool up for grabs, deadline is April 20th 2022. The requirement is that we solve a problem using [TigerGraph](https://www.tigergraph.com/). This repository contains our solution; we will dub our team name `DevAdventurers` after our Habitica party :blush: :heart:.
 
+## Get Started
+
+Follow [installation instructions](./installation_instructions.md)
+
 ## Judging Criteria
 
 - Most Impactful Solution
@@ -22,6 +26,8 @@ Build a graph that maps all species identified by Humans so far. [GBIF](https://
 This dataset contains all species and classifications, as well as their ranking, which goes from Kingdom, Phylum, Class, Order, Family, Genus, Species. There are several applications/use-cases that we can build from this that can address many different problems.
 
 This would allow anyone to view relationships of all species on Earth in an intuitive and hierarchical way.
+
+[More description](./project_description.md)
 
 ### Applications
 
