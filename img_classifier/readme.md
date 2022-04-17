@@ -17,6 +17,7 @@ To Run the image classifier in docker
     You want your volumes to sit in `app/`; so
 
     ```dir
+    - notebooks/
     - app/
         - volumes/
             - models/
@@ -24,6 +25,8 @@ To Run the image classifier in docker
         - src/
         etc..
     ```
+
+    If `app/volumes/tmp/` isn't there, then you can create the dir manually.
 
 3. Build container and run app:
 
