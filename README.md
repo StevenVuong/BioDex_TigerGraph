@@ -2,6 +2,9 @@
 
 A [hackathon](https://graphforall.devpost.com/) with a $1m USD prize pool up for grabs, deadline is April 20th 2022. The requirement is that we solve a problem using [TigerGraph](https://www.tigergraph.com/). This repository contains our solution; we will dub our team name `DevAdventurers` after our Habitica party :blush: :heart:.
 
+Link to YouTube Video:  <https://www.youtube.com/watch?v=3RESgsM6peU&ab_channel=StevenVuong>
+Link to DevPost page: <https://devpost.com/software/biodex-2f3dxa?ref_content=user-portfolio&ref_feature=in_progress>
+
 ## Get Started
 
 Follow [installation instructions](./installation_instructions.md)
