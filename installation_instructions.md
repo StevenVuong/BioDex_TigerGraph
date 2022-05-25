@@ -55,8 +55,8 @@ You can then access `localhost:3000`. Try to: register a sighting, then view it 
 
 In order for the website to show images of these animals for clarification on the classifier. You would be required to download them inside the portal/public folder.
 
-1. Download `https://drive.google.com/file/d/1N9hhWgI8jDVS1U06OL5VRhagE6GEFnPp/view?usp=sharing`
-2. Extract it to `portal/public/animals`; if you are using linux, you can run `tar -xvf species_imgs.tar.gz`
+1. Download `https://drive.google.com/file/d/1uFYEIR_bB_FH8GtbopwlzId5INqXu1s1/view?usp=sharing`
+2. Extract it to `portal/public/animals`; if you are using linux, you can run `tar -xvf animals.tar.gz`
 
 The first image should be in the directory path `portal/public/animals/Abaeis nicippe/0.jpg`
 
